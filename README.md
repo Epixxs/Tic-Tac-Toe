@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 Code to Make Tic-Tac-Toe via Python.
+Note- 2 players are needed to play the game. 
 
 This is divided into three different sections.
 In the first section, you will get to know how to play the tic-tac-toe game.
